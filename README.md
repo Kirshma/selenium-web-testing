@@ -1,4 +1,4 @@
-# Selenium testing
+# Selenium for automated testing of web interfaces
 
 Selenium homepage https://www.selenium.dev/:
 
@@ -7,6 +7,7 @@ Selenium homepage https://www.selenium.dev/:
 
 ## Table of Contents
 - [Overview](#overview-what-is-this-project)
+- [Selenium in action](#selenium-in-action)
 - [Usage](#usage)
 
 

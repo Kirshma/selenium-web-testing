@@ -22,10 +22,6 @@ inputting login information, clicking cookie banners, using search functions, sa
 <br>On the other hand most tests needed work to be done when running the tests after a hiatus as the XPaths of elements that I wished to find were changed, new elements were added (cookie banners) and hyperlinks were changed (e.g. to contain referrals), due to the website changing structure, re-naming and more.
 <br>So for future work with this tool I have learned that I should consider writing more robust test cases so that the tests themselves are able to withstand the ultimate test - the test of time (pun intended).
 
-## Selenium in action
-
-![Selenium in action](lib/selenium.gif)
-
 ## Usage
 
 You need to specify which browser the Selenium WebDriver should use.
